@@ -6,4 +6,4 @@
 USER=portal-user
 PASSWORD=portal-password
 
-wget --user=$USER --password=$PASSWORD --no-check-certificate $1
+wget --user=$USER --password=$PASSWORD --no-check-certificate $1 -O- | tar xz
