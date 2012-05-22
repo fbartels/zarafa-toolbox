@@ -1,0 +1,18 @@
+Subject: Quota of user ${ZARAFA_QUOTA_NAME} has been exceeded
+
+Your mailbox has exceeded one or more size limits set by your administrator.
+Your mailbox size is ${ZARAFA_QUOTA_STORE_SIZE}.
+
+Mailbox size limits:
+	* Warninglevel (${ZARAFA_QUOTA_WARN_SIZE})
+		- When this limit is exceeded a warning message will be send
+	* Softlevel (${ZARAFA_QUOTA_SOFT_SIZE})
+		- When this limit is exceeded you will not be able to send new email
+	* Hardlevel (${ZARAFA_QUOTA_HARD_SIZE})
+		- When this limit is exceeded you will not be able to send and receive new email
+
+To make more space available, delete any items that you are no longer using or use Zarafa Archiver to move old items to an archive server.
+If your organisation does not have the Zarafa Archiver yet, please refer to http://www.zarafa.com/content/zarafa-archiver for more information on this cost effective solution.
+Items in all of your mailbox folders including the Deleted Items and Sent Items folders count against your size limit.
+You must empty the Deleted Items folder after deleting items or the space will not be freed.
+See client Help for more information.
