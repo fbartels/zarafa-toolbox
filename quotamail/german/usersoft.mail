@@ -11,8 +11,8 @@ Größenbeschränkungen für Postfächer:
 	* Hardlevel (${ZARAFA_QUOTA_HARD_SIZE})
 		- Wenn diese Grenze überschritten wurde, sind Sie nicht in der Lage sein, neun E-Mails zu senden oder zu empfangen 
 
-To make more space available, delete any items that you are no longer using or use Zarafa Archiver to move old items to an archive server.
-If your organisation does not have the Zarafa Archiver yet, please refer to http://www.zarafa.com/content/zarafa-archiver for more information on this cost effective solution.
+Um weiteren Speicherplatz freizugeben können Sie alte, nicht mehr benötigte Mails löschen oder mittels des Zarafa Archiver auf einen Archiv Server verschieben.
+Falls Ihre Firma noch keinen Zarafa Archiver einsetzt, können Sie weitere Informationen zu dieser kosteneffektiven Lösung unter http://www.zarafa.com/content/zarafa-archiver erfahren.
 Items in all of your mailbox folders including the Deleted Items and Sent Items folders count against your size limit.
 You must empty the Deleted Items folder after deleting items or the space will not be freed.
 See client Help for more information.
