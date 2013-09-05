@@ -22,9 +22,11 @@ require("mapi/class.meetingrequest.php");require("mapi/class.freebusypublish.php
 
 define('PR_PROCESSED', mapi_prop_tag(PT_BOOLEAN, 0x7D01));
 
-function hex2bin($data)
-{
-	return pack("H*", $data);
+if ( !function_exists( 'hex2bin' ) ) {
+   function hex2bin($data)
+   {
+       return pack("H*", $data);
+   }
 }
 
 /**
